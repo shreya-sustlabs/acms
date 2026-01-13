@@ -1,0 +1,90 @@
+{
+  "FC1": [
+    {
+      "id": "fc1-1",
+      "name": "VAR 1",
+      "value": " VALUE"
+    },
+    {
+      "id": "fc1-2",
+      "name": "VAR 2",
+      "value": "VALUE"
+    },
+    {
+      "id": "fc1-3",
+      "name": "VAR 3",
+      "value": "VALUE"
+    },
+    {
+      "id": "fc1-4",
+      "name": "VAR 4",
+      "value": "VALUE"
+    }
+  ],
+  "FC2": [
+    {
+      "id": "fc2-1",
+      "name": "VAR 1",
+      "value": "VALUE2222"
+    },
+    {
+      "id": "fc2-2",
+      "name": "VAR 2",
+      "value": "VALUE"
+    },
+    {
+      "id": "fc2-3",
+      "name": "VAR 3",
+      "value": "VALUE"
+    },
+    {
+      "id": "fc2-4",
+      "name": "VAR 4",
+      "value": "VALUE"
+    }
+  ],
+  "FC3": [
+    {
+      "id": "fc3-1",
+      "name": "VAR 1",
+      "value": "VALUE"
+    },
+    {
+      "id": "fc3-2",
+      "name": "VAR 2",
+      "value": "VALUE"
+    },
+    {
+      "id": "fc3-3",
+      "name": "VAR 3",
+      "value": "VALUE"
+    },
+    {
+      "id": "fc3-4",
+      "name": "VAR 4",
+      "value": "VALUE"
+    }
+  ],
+  "FC4": [
+    {
+      "id": "fc4-1",
+      "name": "VAR 1",
+      "value": "VALUE"
+    },
+    {
+      "id": "fc4-2",
+      "name": "VAR 2",
+      "value": "VALUE"
+    },
+    {
+      "id": "fc4-3",
+      "name": "VAR 3",
+      "value": "VALUE"
+    },
+    {
+      "id": "fc4-4",
+      "name": "VAR 4",
+      "value": "VALUE"
+    }
+  ]
+}
